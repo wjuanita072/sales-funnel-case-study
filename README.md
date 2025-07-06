@@ -18,7 +18,7 @@ This case study examines sales performance trends across an SDR team, focusing o
 
 ## Dashboard Preview
 
-![Sales Funnel Dashboard](dashboard-overview.png)
+![Sales Funnel Dashboard](Sales Funnel Performance Overview.png)
 
 ---
 
