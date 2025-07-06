@@ -1,0 +1,14 @@
+Metric,Value,,,
+Total Leads,50,,,
+Closed-Won,29.00,,,
+Close Rate,58.00%,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Metric Segment,,,,
+Lead Source,Total Leads ,Closed-Won ,Closed-Lost,Close Rate
+PPC,7,5,2,71.43%
+Refferal,14,8,6,57.14%
+SEO,24,15,9,62.50%
+Email Campaign,5,1,4,20.00%

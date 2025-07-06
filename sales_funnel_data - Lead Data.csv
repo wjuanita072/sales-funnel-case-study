@@ -1,0 +1,51 @@
+lead_id,lead_source,outreach_date,contact_date,demo_date,proposal_date,opportunity_date,conversion_date,objection,AE_name,sequence_used ,conversion_status
+L-3265,Refferal,19/2/23,,,,,,Lack of Bandwidth,Ben B.,TRUE,Closed-Lost
+L-4265,PPC,18/7/23,23/7/23,25/7/23,,,,Not the Decision Maker,John H.,FALSE,Closed-Lost
+L-1754,PPC,17/8/23,21/8/23,,,,,Tech Compatibility Concerns,Jordan M.,TRUE,Closed-Lost
+L-2013,Refferal,3/7/23,6/7/23,12/7/23,,,,Pricing,Sean C.,FALSE,Closed-Lost
+L-3750,Refferal,14/1/23,16/1/23,19/1/23,20/1/23,21/1/23,,Not a Fit,Sean C.,FALSE,Closed-Lost
+L-4962,Refferal,5/5/23,9/5/23,,,,,Not the Decision Maker,Jordan M.,FALSE,Closed-Lost
+L-2032,Email Campaign,22/1/23,25/1/23,31/1/23,,,,Legal Budget Frozen,Sean C.,TRUE,Closed-Lost
+L-1232,SEO,15/8/23,20/8/23,23/8/23,26/8/23,29/8/23,3/9/23,,Ben B.,TRUE,Closed-Won
+L-3415,Refferal,1/12/22,6/12/22,,,,,Timing,Jordan M.,TRUE,Closed-Lost
+L-5460,Email Campaign,1/4/23,2/4/23,,,,,Already Using Competitor,Jordan M.,TRUE,Closed-Lost
+L-3210,PPC,12/11/22,13/11/22,15/11/22,18/11/22,,,No Response After Demo,Jordan M.,TRUE,Closed-Lost
+L-2190,Email Campaign,5/2/23,,,,,,Already Using Competitor,Ben B.,FALSE,Closed-Lost
+L-2314,PPC,13/2/23,18/2/23,20/2/23,22/2/23,24/2/23,25/2/23,,Sean C.,TRUE,Closed-Won
+L-1517,Email Campaign,5/3/23,,,,,,Tech Compatibility Concerns,James P.,TRUE,Closed-Lost
+L-3200,SEO,18/5/23,20/5/23,23/5/23,,,,No Response After Demo,John H.,FALSE,Closed-Lost
+L-1200,SEO,25/3/23,27/3/23,3/4/23,6/4/23,,,Tech Compatibility Concerns,John H.,TRUE,Closed-Lost
+L-2240,PPC,3/5/23,6/5/23,11/5/23,14/5/23,,,Tech Compatibility Concerns,Jordan M.,FALSE,Closed-Lost
+L-3240,Refferal,22/5/23,,,,,,Not a Fit,Sean C.,FALSE,Closed-Lost
+L-4150,SEO,12/3/23,14/3/23,,,,,Pricing,Jordan M.,FALSE,Closed-Lost
+L-9210,Refferal,21/11/22,23/11/22,29/11/22,,,,Legal Budget Frozen,Sean C.,TRUE,Closed-Lost
+L-9821,Refferal,14/6/23,18/6/23,23/6/23,,,,Not the Decision Maker,Sean C.,TRUE,Closed-Lost
+L-8210,Refferal,31/7/23,1/8/23,8/8/23,9/8/23,,,Timing,Jordan M.,TRUE,Closed-Lost
+L-4320,Email Campaign,10/7/23,15/7/23,22/7/23,24/7/23,27/7/23,,Already Using Competitor,Ben B.,FALSE,Closed-Lost
+L-3000,Refferal,12/2/23,13/2/23,,,,,Pricing,Jordan M.,FALSE,Closed-Lost
+L-1769,Refferal,12/3/23,17/3/23,,,,,Already Using Competitor,Jordan M.,FALSE,Closed-Lost
+L-2318,Email Campaign,21/2/23,22/2/23,24/2/23,27/2/23,1/3/23,2/3/23,,Ben B.,TRUE,Closed-Won
+L-3043,SEO,9/4/23,11/4/23,,,,,Proposal Confusion,John H.,TRUE,Closed-Lost
+L-7643,PPC,10/1/23,14/1/23,20/1/23,,,,Not the Decision Maker,James P.,TRUE,Closed-Lost
+L-8218,Refferal,1/4/23,6/4/23,11/4/23,13/4/23,15/4/23,,Already Using Competitor,James P.,TRUE,Closed-Lost
+L-6671,PPC,10/5/23,13/5/23,16/5/23,,,,Proposal Confusion,Sean C.,TRUE,Closed-Lost
+L-7654,PPC,30/5/23,4/6/23,9/6/23,12/6/23,13/6/23,17/6/23,,Ben B.,TRUE,Closed-Won
+L-8105,SEO,19/3/23,22/3/23,28/3/23,29/3/23,31/3/23,1/4/23,,Sean C.,TRUE,Closed-Won
+L-6767,Refferal,16/5/23,17/5/23,21/5/23,,,,Not a Fit,John H.,TRUE,Closed-Lost
+L-5520,SEO,16/6/23,19/6/23,26/6/23,,,,Tech Compatibility Concerns,John H.,TRUE,Closed-Lost
+L-7650,Refferal,7/8/23,,,,,,Legal Budget Frozen,Sean C.,TRUE,Closed-Lost
+L-4322,PPC,14/8/23,17/8/23,,,,,Pricing,James P.,FALSE,Closed-Lost
+L-6718,Refferal,13/12/22,16/12/22,18/12/22,19/12/22,21/12/22,,Legal Budget Frozen,Ben B.,FALSE,Closed-Lost
+L-5678,SEO,28/6/23,30/6/23,,,,,Pricing,Sean C.,TRUE,Closed-Lost
+L-2414,PPC,21/12/22,22/12/22,,,,,Not a Fit,Jordan M.,FALSE,Closed-Lost
+L-3242,Email Campaign,6/2/23,7/2/23,10/2/23,,,,Not the Decision Maker,James P.,FALSE,Closed-Lost
+L-7223,Email Campaign,10/11/22,15/11/22,18/11/22,19/11/22,21/11/22,26/11/22,,Sean C.,FALSE,Closed-Won
+L-5467,Refferal,5/2/23,8/2/23,,,,,Pricing,Ben B.,TRUE,Closed-Lost
+L-0239,PPC,25/8/23,26/8/23,28/8/23,31/8/23,1/9/23,5/9/23,,James P.,TRUE,Closed-Won
+L-2434,SEO,16/6/23,,,,,,Timing,Jordan M.,TRUE,Closed-Lost
+L-1213,Email Campaign,14/2/23,18/2/23,21/2/23,22/2/23,,,Proposal Confusion,John H.,FALSE,Closed-Lost
+L-5423,Email Campaign,16/3/23,,,,,,Proposal Confusion,Jordan M.,TRUE,Closed-Lost
+L-5757,Email Campaign,23/4/23,25/4/23,30/4/23,2/5/23,,,No Response After Demo,John H.,TRUE,Closed-Lost
+L-3459,Refferal,16/1/23,20/1/23,25/1/23,28/1/23,,,Not the Decision Maker,Jordan M.,TRUE,Closed-Lost
+L-2543,SEO,14/6/23,16/6/23,22/6/23,24/6/23,,,Lack of Bandwidth,Ben B.,TRUE,Closed-Lost
+L-7234,Refferal,13/8/23,18/8/23,25/8/23,28/8/23,30/8/23,1/9/23,,Sean C.,TRUE,Closed-Won
