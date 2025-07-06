@@ -18,7 +18,7 @@ This case study examines sales performance trends across an SDR team, focusing o
 
 ## Dashboard Preview
 
-![Sales Funnel Dashboard](Sales Funnel Performance Overview.png)
+![Sales Funnel Dashboard](Sales%20Funnel%20Performance%20Overview.png)
 
 ---
 
@@ -28,7 +28,7 @@ This case study examines sales performance trends across an SDR team, focusing o
 |------------------------------|-------------|
 | **Interactive Tableau Workbook** | `Sales_Funnel_Performance.twbx` |
 | **Case Study Slides (PDF)**      | `Sales_Funnel_Case_Study.pdf`   |
-| **Source CSVs** (Optional)       | `Lead Data.csv`, `Lead Data with Deal Values.csv`, etc. |
+| **Source CSVs**     | `Lead Data.csv`, `Lead Data with Deal Values.csv`, etc. |
 
 ---
 
