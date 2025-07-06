@@ -1,32 +1,55 @@
-# Sales Funnel Optimization Case Study 
+# Sales Funnel Case Study
 
-**Objective:** 
-Built a robust sales pipeline by identifying high-performing lead trends using CRM-style and outreach-style data — exceeding time-bound quarterly quota goals. 
-
----
-
-##Project Overview 
-
-This case study analyzes a sales team's performance using CRM and email outreach data. The goal was to identify top-performing lead sources, understand conversion drop-offs, and evaluate personal and team success against quota. 
-
-Key insights were visualized using Tableau to support sales strategy improvement and highlight personal contributions. 
+**Objective:**  
+Built a robust sales pipeline by analyzing CRM and Outreach.io data to identify high-performing lead trends — exceeding time-bound quarterly quota goals.
 
 ---
 
-## Key Results
-- Achieved **121% of personal quota**
-- Found largest drop-off at **Demo → Proposal** stage
-- Top objection: **Not the Decision Maker**
-- **Personal deal size** exceeded team average by 25-35% (driven refined objection handling)
-- Top-performing channels: **PPC**, **SEO**, **Referral**
+## Project Overview
+
+This case study examines sales performance trends across an SDR team, focusing on:
+- Funnel stage drop-offs
+- Lead source quality
+- Objection handling
+- Personal close rate vs. team average
+- Deal value trends across sources and reps
 
 ---
 
-## File Structure 
+## Dashboard Preview
 
-```bash
-├── Sales_Funnel_Case_Study.pdf               # Visual case study overview
-├── Sales_Funnel_Performance.twbx             # Tableau workbook with all visualizations
-└── /data/
-    ├── Lead Data.csv                         # Original dataset (no deal values)
-    └── Lead Data with Deal Values.csv        # Modified dataset with estimated deal sizes
+![Sales Funnel Dashboard](dashboard-overview.png)
+
+---
+
+## Deliverables
+
+| Item                         | Link / File |
+|------------------------------|-------------|
+| **Interactive Tableau Workbook** | `Sales_Funnel_Performance.twbx` |
+| **Case Study Slides (PDF)**      | `Sales_Funnel_Case_Study.pdf`   |
+| **Source CSVs** (Optional)       | `Lead Data.csv`, `Lead Data with Deal Values.csv`, etc. |
+
+---
+
+## Tools Used
+
+- **Tableau** — dashboard & insights
+- **Excel / Google Sheets** — data transformation
+- **Canva** — case study visuals
+- **GitHub** — project hosting
+
+---
+
+## Key Learnings
+
+- Used outreach data to spot lead source performance gaps
+- Discovered objection patterns that impacted close rate
+- Generated personal deal values above team average by refining pitch strategy
+- Built dynamic Tableau dashboard and case study for stakeholders
+
+---
+
+## Outcome
+
+Final dashboard and presentation designed to give sales leaders clear, data-backed recommendations on how to exceed quota through better targeting and funnel strategy.
