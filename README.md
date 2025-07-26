@@ -1,4 +1,4 @@
-# Sales Funnel Case Study
+# Sales Funnel Case Study - Juanita Watkins
 
 **Objective:**  
 Built a robust sales pipeline by analyzing CRM and Outreach.io data to identify high-performing lead trends — exceeding time-bound quarterly quota goals.
